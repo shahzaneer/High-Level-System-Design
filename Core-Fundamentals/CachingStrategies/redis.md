@@ -243,12 +243,3 @@ Redis is software, yes.
 But it replaces **slow, complex, disk-heavy operations** with **fast, simple, in-memory operations**.
 
 That trade-off almost always wins.
-
-If you want next, I can explain:
-
-* Redis Cluster vs Sentinel
-* Redis persistence and durability trade-offs
-* Cache stampede and how Redis handles it
-* Redis vs Memcached at scale
-
-Just tell me where you want to go next.
